@@ -1,0 +1,9 @@
+pyprind
+python-jsonrpc
+gensim
+selenium
+nltk
+beautifulsoup4
+lxml
+breadability
+scikit-learn
